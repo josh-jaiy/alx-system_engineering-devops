@@ -1,1 +1,2 @@
-#!/bin/baschmod ug+x d+r hello
+#!/bin/baschmod
+#chmod u+x hello
